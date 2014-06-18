@@ -34,7 +34,7 @@ send_quote = (message, location, response_handler)->
 
     if response.statusCode == 302 || response.statusCode == 301
       location = response.headers['location']
-      return send_meme(message, location, response_handler)
+      return send_quote(message, location, response_handler)
 
     txt = get_quote(body, ".post h2")
 
