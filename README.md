@@ -20,7 +20,7 @@ Returns the last quote or a random one.
 Add the package `hubot-payetashnek` as a dependency in your Hubot `package.json` file.
 
     "dependencies": {
-      "hubot-payetashnek": "0.1.0"
+      "hubot-payetashnek": "0.1.1"
     }
 
 Run the following command to make sure the module is installed.

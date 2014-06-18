@@ -1,7 +1,7 @@
 {
   "name": "hubot-payetashnek",
   "description": "A script for Hubot to display last and random quotes from payetashnek.tumblr.com",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Yves Brissaud <yves.brissaud@gmail.com",
   "license": "MIT",
 
