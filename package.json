@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/eunomie/hubot-payetashnek.git"
+    "url": "https://github.com/hubot-scripts/hubot-payetashnek"
   },
 
   "bugs": {
-    "url": "https://github.com/eunomie/hubot-payetashnek/issues"
+    "url": "https://github.com/hubot-scripts/hubot-payetashnek/issues"
   },
 
   "dependencies": {
